@@ -1,3 +1,3 @@
 # aniksonifrist
-this is my first repository
-owner-Anik Soni
+This is my first Repository
+Owner-Anik Soni
